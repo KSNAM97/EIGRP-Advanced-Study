@@ -2,14 +2,6 @@
 
 > Cisco EIGRP 심화 개념 학습 정리 - Offset-list, Summary, SIA, Hello/Hold Timer
 
-## 📌 Topics
-
-`EIGRP` `Cisco` `Routing-Protocol` `Network` `CCNP` `Frame-Relay` `Offset-list` `Summary-Address` `SIA` `Default-Route`
-
-## 🏷️ Tags
-
-`#EIGRP` `#Cisco` `#Networking` `#Routing` `#CCNA` `#CCNP` `#FrameRelay` `#OffsetList` `#RouteSummary` `#SIA` `#StuckInActive`
-
 ---
 
 ## 📖 학습 목표
