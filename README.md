@@ -1,3 +1,10 @@
+![Topic](https://img.shields.io/badge/Topic-Route_Filtering-blue)
+![Method](https://img.shields.io/badge/Method-Prefix--list%20%7C%20Route--map-orange)
+![Vendor](https://img.shields.io/badge/Vendor-Cisco-1BA0D7?logo=cisco&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-GNS3-2ECC71)
+![Level](https://img.shields.io/badge/Level-Advanced-red)
+
+
 # EIGRP-Advanced-Study
 
 > Cisco EIGRP 심화 개념 학습 정리 - Offset-list, Summary, SIA, Hello/Hold Timer
