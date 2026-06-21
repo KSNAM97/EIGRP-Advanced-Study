@@ -1,5 +1,5 @@
-![Topic](https://img.shields.io/badge/Topic-Route_Filtering-blue)
-![Method](https://img.shields.io/badge/Method-Prefix--list%20%7C%20Route--map-orange)
+![Topic](https://img.shields.io/badge/Topic-EIGRP-blue)
+![Feature](https://img.shields.io/badge/Feature-DUAL%20%7C%20Load_Balancing%20%7C%20Stub-orange)
 ![Vendor](https://img.shields.io/badge/Vendor-Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![Tool](https://img.shields.io/badge/Tool-GNS3-2ECC71)
 ![Level](https://img.shields.io/badge/Level-Advanced-red)
