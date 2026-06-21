@@ -25,7 +25,7 @@
 ---
 
 ## 🖧 Network Topology
-
+![EIGRP_Topology](./topology/eigrp_topology.png)
 ```
                           13.13.1.0/24
                           13.13.11.0/24
